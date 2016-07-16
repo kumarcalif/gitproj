@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 I am in branch1
+=======
+I am in master branch
+>>>>>>> master
 read2
 read2
