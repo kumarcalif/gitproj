@@ -1,3 +1,4 @@
+I am in branch 2
 I am in master branch
 read2
 read2
