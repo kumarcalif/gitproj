@@ -1,3 +1,2 @@
-I am in branch1
 read2
 read2
